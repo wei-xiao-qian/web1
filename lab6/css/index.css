@@ -8,3 +8,21 @@ ul li.no2{
 	font-weight:800;
 	color:#65a7d0;
 }
+.td1{
+	background-image: url(../images/line.gif);
+}
+p{
+	background-image:url(../images/banner.jpg);
+	background-repeat:no-repeat;
+	background-position:50% 30%;
+	height: 255px;
+}
+.bg2{
+	background-image: url(../images/pic_foot_bg.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 40px;
+}
+.bg3{
+	 background-image:url(../images/foot_bg.gif)
+}
+

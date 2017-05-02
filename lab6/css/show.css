@@ -8,10 +8,20 @@
 	font-family: Arial;
 	font-size:12px;
 	color:#a9a8a8;
+	background-image: url(../images/line.gif);
 }
 .color{
 	color:#22a3d3;
 }
 p{
 	text-indent: 2em;
+}
+p.no1{
+		background-image:url(../images/banner.jpg);
+		background-repeat:no-repeat;
+		background-position:50% 30%;
+		height: 255px;
+}
+.bg{
+	background-image: url(../images/line.gif);
 }
