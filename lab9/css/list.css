@@ -1,0 +1,160 @@
+body{
+	background-image:url(../images/bodybg.gif);
+	background-repeat: repeat-x;
+	text-align: center;
+	font-family: 宋体;
+	font-size: 12px;
+	color: #522a06;
+	padding: 0px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+#list{
+	width: 1200px;
+	overflow: hidden;
+}
+.left{
+	width: 270px;
+	float: left;
+	margin-left: 150px;
+}
+.lb{
+	font-size: 13px;
+	padding-top: 10px;
+}
+.left1{
+	border: 1px solid #c9baa5;
+	background-image: url(../images/bg.png);
+	height: 300px;
+	margin-top:10px;
+}
+.li11{
+	background-image: url(../images/menubg.gif);
+	background-position: 65px 8px;
+	background-repeat: no-repeat;
+	font-size: 19px;
+
+}
+
+.li{
+	padding-left: 0px;
+	line-height: 45px;
+	font-size: 16px;
+	font-weight: 600;
+}
+.left2{
+	border: 1px solid #c9baa5;
+	background-image: url(../images/bg.png);
+	height: 250px;
+	margin-top:30px;
+}
+.li22{
+	padding-left: 0px;
+	line-height: 40px;
+	font-size: 15px;
+	list-style-type: none;
+}
+.imgz{
+	padding-top: 10px;
+}
+.imgt{
+	margin:13px;
+	border: 1px solid #c9baa5;
+}
+.right{
+	width: 700px;
+	float: right;
+	margin-left: 10px;
+}
+.r1{
+	width: 700px;
+	height: 45px;
+	background-image: url(../images/listtitle.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	border: 1px solid #c9baa5;
+	margin-top: 25px;
+	text-align: left;
+
+}
+.spanz{
+	font-size: 21px;
+	color: red;
+	font-weight: 600px;
+	padding-left: 0px;
+	line-height: 40px;
+}
+.rz{
+	width: 400px;
+	float: left;
+	font-size: 14px;
+	line-height: 37px;
+	padding-left: 0px;
+	text-align: left;
+}
+.lia{
+	padding-left: 0px;
+}
+.rr{
+	width: 180px;
+	float: right;
+	font-size: 14px;
+	line-height: 37px;
+	list-style-type: none;
+}
+#footerl{
+	height: 115px;
+	clear: both;
+	background-image: url(../images/foot.gif); 
+	background-repeat: no-repeat;
+}
+.yejiao{
+	padding-top: 20px;
+	display: inline;
+	font-weight: 600;
+	font-size: 15px;
+	list-style-type: none;
+	padding-left: 7px;
+
+}
+.dian{
+	list-style-type: none;
+}
+.imgline{
+	width: 600px;
+	margin-left: 50px;
+}
+.num{
+	list-style-type: none;
+	float: right;
+	width: 800px;
+}
+.num1{
+	border: 1px solid #c9baa5;
+	display: inline;
+	list-style-type: none;
+	padding:5px 20px 5px 20px;
+	font-size: 15px;
+	}
+.num2{
+	font-weight: 900px;
+	display: inline;
+	color: red;
+	list-style-type: none;
+	padding:5px 20px 5px 10px;
+	font-size: 15px;
+
+}
+.num3{
+	display: inline;
+	list-style-type: none;
+	padding:5px 20px 5px 20px;
+	font-size: 15px;
+
+}
+
+

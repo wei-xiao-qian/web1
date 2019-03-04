@@ -1,0 +1,152 @@
+body{
+	background-color: #bebebe;
+	font-size: 15px;
+	text-align: center;
+	font-family: 宋体;
+	color: #522a06;
+	padding: 0px;
+}
+ul li{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+	color: #522a06;
+}
+.img1{
+	margin-left: 5px;
+}
+ .leader{
+ 	height: 120px;
+ 	margin-left: 95px;
+ }
+ .dh{
+ 	list-style-type: none;
+ 	width: 143px;
+ 	line-height: 100px;
+ 	display: inline;
+ 	float: left;
+ 	text-align: center;
+
+ }
+ .search{
+ 	display: inline;
+ 	float: left;
+ 	margin-top:35px;
+ }
+ .dh1{
+	text-decoration: none;
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+	display: block;
+	text-align: center;
+	}
+.dh:hover{
+		background-color:green;
+		font-size: 32px;
+	}
+.input{
+	width: 150px;
+	height: 30px;
+}
+.inp{
+	width: 60px;
+	height: 35px;
+}
+#shouye{
+	background-color:green;
+	display: block;
+
+}
+#one{
+	margin-top: 30px;
+	background-image: url(../image/bg1.jpg);
+	border:1px solid gray;
+	height: 215px;
+	width: 360px;
+	float: left;
+}
+#left1{
+	float: left;
+	width: 365px;
+	height: 594px;
+	margin-left: 90px;
+}
+.img2{
+	width: 360px;
+}
+.button{
+	padding-left: 50px;
+	font-size: 18px;
+}
+.yhm{
+	padding-top: 55px;
+}
+.apply{
+	font-size: 16px;
+	color: blue;
+}
+#right1{
+	float: left;
+	margin-left: 0px;
+	width: 870px;
+	height: 590px;
+}
+.song{
+	list-style-type: none;
+	line-height: 60px;
+	text-align: left;
+}
+.newso{
+	font-size: 17px;
+}
+hr{
+	width: 300px;
+	text-align: left;
+}
+.rr1{
+	float: left;
+	width: 380px;
+}
+.rr2{
+	float: right;
+	width: 480px;
+	height: 590px;
+}
+.img3{
+	width: 210px;
+	height:220px;
+}
+.pic{
+	float: left;
+	margin-left: 5px;
+	margin-top: 40px;
+	width: 215px;
+	height: 250px;
+	opacity: 1.0;
+	margin-top: 10px;
+}
+.pic:hover{
+	opacity: 0.7;
+}
+h3{
+	background-image: url(../images/bg.png);
+	width: 200px;
+}
+#footer{
+	height: 135px;
+	clear: both;
+	background-color: #8e8e8e;
+	background-repeat: no-repeat;
+}
+.yejiao{
+	display: inline;
+}
+.last{
+	line-height: 20px;
+	list-style-type: none;
+}
+.tt{
+	color: blue;
+}
